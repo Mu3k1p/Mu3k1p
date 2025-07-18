@@ -1,5 +1,8 @@
 # I am Isarak
-I like BMW<br>I like Intel<br>I like Brunette<br>I like Gym
+### I like to AI MAX
+
+
+I like BMW<br>I like Intel<br>I like Gym<br>I like Deftones
 
 
 ## 🌐 Socials:
@@ -11,5 +14,7 @@ I like BMW<br>I like Intel<br>I like Brunette<br>I like Gym
 ![](https://github-readme-stats.vercel.app/api?username=Mu3k1p&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mu3k1p&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu3k1p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
