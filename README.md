@@ -1,5 +1,4 @@
 # I am Isarak
-### I like to AI MAX
 
 
 I like BMW<br>I like Intel<br>I like Gym<br>I like Deftones
